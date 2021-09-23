@@ -2,6 +2,7 @@
 - 👀 I’m interested in techonolgy, and coding
 - 🌱 I’m currently learning coding for different applications
 - 📫 How to reach me @tasirubelara@gmail.com
+- I'm from Belize 
 
 <!---
 tasiannieara/tasiannieara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
